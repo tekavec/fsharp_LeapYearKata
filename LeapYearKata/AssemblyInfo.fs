@@ -1,4 +1,4 @@
-﻿namespace LeapYear.AssemblyInfo
+﻿namespace LeapYearKata.AssemblyInfo
 
 open System.Reflection
 open System.Runtime.CompilerServices
@@ -7,11 +7,11 @@ open System.Runtime.InteropServices
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[<assembly: AssemblyTitle("LeapYear")>]
+[<assembly: AssemblyTitle("LeapYearKata")>]
 [<assembly: AssemblyDescription("")>]
 [<assembly: AssemblyConfiguration("")>]
 [<assembly: AssemblyCompany("")>]
-[<assembly: AssemblyProduct("LeapYear")>]
+[<assembly: AssemblyProduct("LeapYearKata")>]
 [<assembly: AssemblyCopyright("Copyright ©  2015")>]
 [<assembly: AssemblyTrademark("")>]
 [<assembly: AssemblyCulture("")>]
@@ -22,7 +22,7 @@ open System.Runtime.InteropServices
 [<assembly: ComVisible(false)>]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[<assembly: Guid("3dd6ec17-9019-4b0d-967c-97615c8daf7a")>]
+[<assembly: Guid("9c29087f-be47-4f99-a981-a1249ec82a16")>]
 
 // Version information for an assembly consists of the following four values:
 // 

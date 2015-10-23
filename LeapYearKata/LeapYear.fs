@@ -1,4 +1,4 @@
-﻿module Kata
+﻿module LeapYear
 
 type Year(year) = 
     member x.Value = year
