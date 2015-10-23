@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "LeapYear", "LeapYear.fsproj", "{3DD6EC17-9019-4B0D-967C-97615C8DAF7A}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "LeapYear.Tests", "..\LeapYear.Tests\LeapYear.Tests.fsproj", "{CCA879B3-5CDA-4367-BE32-FEE78DAF30D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3DD6EC17-9019-4B0D-967C-97615C8DAF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DD6EC17-9019-4B0D-967C-97615C8DAF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DD6EC17-9019-4B0D-967C-97615C8DAF7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA879B3-5CDA-4367-BE32-FEE78DAF30D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA879B3-5CDA-4367-BE32-FEE78DAF30D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA879B3-5CDA-4367-BE32-FEE78DAF30D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA879B3-5CDA-4367-BE32-FEE78DAF30D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
